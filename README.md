@@ -6,7 +6,7 @@ A RESTful API built with Node.js, Express, and MongoDB to manage tasks. This API
 ## Instructions to Set Up and Run the API
 ### Prerequisites
 - **Node.js** (v14 or higher)
-- **MongoDB** (local or cloud-based, such as [MongoDB Atlas](https://www.mongodb.com/atlas))
+- **MongoDB** (local or cloud-based, [MongoDB Atlas](https://www.mongodb.com/atlas))
 - A terminal or command prompt
 
 ## To Install Dependencies
